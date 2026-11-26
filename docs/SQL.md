@@ -35,3 +35,10 @@ Table: Collection of related data entries and consists of columns and rows
 | Return Value? | Yes | No |
 | Can Modify Data? | No | Yes |
 | How to Run it | Inside a normal query (SELECT, WHERE) | Standalone command (CALL or EXEC) |
+
+## Components of a DataBase
+Database : The main digital filing cabinet (e.g., an online store's system)
+Table    : Individual spreadsheet inside that cabinet (e.g., customers, orders, products)
+Column   : Vertical category of data (Category such as name, email, price) 
+Row(Record): Horizontal entry in the table
+Primary Key: A unique number assigned to every rows
